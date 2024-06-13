@@ -48,17 +48,19 @@ span{
 @media(min-width:992px){
 
     #sec1{
+        height:150px;
         float:left;
         margin-right:5px;
     }
 
     #sec2{
+        height:150px;
         float:left;
 
     }
 
     #sec3{
-        
+        height:150px;
         float:right;
     }
 
@@ -70,6 +72,7 @@ span{
     
     #sec1{
         width:49%;
+        height:150px;
         float:left;
         margin-right:2px;
         margin-bottom:8px;
@@ -78,6 +81,7 @@ span{
     }
 
     #sec2{
+        height:150px;
         width:49%;
         float:right;
         margin-bottom:8px;
@@ -86,6 +90,7 @@ span{
     }
 
     #sec3{
+        height:100px;
         width:100%;
         
         clear:both;
